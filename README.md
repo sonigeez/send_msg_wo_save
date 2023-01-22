@@ -1,6 +1,6 @@
 # send_msg_wo_save
 
-A new Flutter project.
+Send Message over whatsapp without saving mobile number.
 
 ## Getting Started
 
